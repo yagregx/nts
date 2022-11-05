@@ -1,4 +1,4 @@
 # nts
-just putting my notes here ugh and maybe practice some html
+just putting my notes here ugh and maybe practice some html and other super basic web stuff
 
-[Distribution theory](./distribution.html)
+still under construction
